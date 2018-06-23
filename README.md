@@ -1,6 +1,11 @@
-# hello-world
-//Just a test of what I can do with GitHub.
+# SPRING-DEMO
 
-System.out.println("Hello World!");
+This rep is all about Spring awesomeness.
 
-// Well, the thing is... Ehm... It's not a Hello World program but a java.util.Scanner test.
+### Prerequisites
+
+```
+1) Any IDE (IntelliJ IDEA Pref)
+2) Java 8
+3) SPRING
+```
